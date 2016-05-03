@@ -1,0 +1,11 @@
+opentypejs (0.4.3-2) unstable; urgency=medium
+
+  * Add d/font-converter.js script from DernierCri
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Tue, 03 May 2016 11:02:07 +0200
+
+opentypejs (0.4.3-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Tue, 3 May 2016 19:57:10 +0100
