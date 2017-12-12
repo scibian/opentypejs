@@ -1,3 +1,9 @@
+opentypejs (0.4.3-2sci8u1) scibian8; urgency=medium
+
+  * New Scibian release.
+
+ -- Pierre Trespeuch <pierre-externe.trespeuch@edf.fr>  Tue, 12 Dec 2017 15:29:30 +0100
+
 opentypejs (0.4.3-2) unstable; urgency=medium
 
   * Add d/font-converter.js script from DernierCri
