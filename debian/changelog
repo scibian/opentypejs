@@ -1,3 +1,9 @@
+opentypejs (0.4.3-2sci9u1) scibian9; urgency=medium
+
+  * Rebuild for scibian9.
+
+ -- Rémi Palancher <remi-externe.palancher@edf.fr>  Fri, 27 Apr 2018 10:39:19 +0200
+
 opentypejs (0.4.3-2sci8u1) scibian8; urgency=medium
 
   * New Scibian release.
